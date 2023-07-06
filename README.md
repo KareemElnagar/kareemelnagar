@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kareem Elnagar</h1>
 <h3 align="center">A passionate Android developer</h3>
 
-- 🔭 A CS graduate from faculty of Science - Mansoura University 
+- 🔭 A CS graduate from Faculty of Science - Mansoura University 
 
 - 🌱 I’m currently learning **Android Development**
 
