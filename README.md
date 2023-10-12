@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">A passionate Android Developer <br><br>- 🔭 A Computer Science graduate from Faculty of Science - Mansoura University<br>- 📚 I’m currently learning Android Development<br>- 💬 Ask me about Java, Kotlin, Android <br>- 📫 How to reach me <a href="mailto:kareemelnagar733@gmail.com">kareemelnagar733@gmail.com</a></p>
+<p align="left">A passionate Android Developer <br><br>- 🔭 A Computer Science graduate from Faculty of Science - Mansoura University<br>- 📚 I’m currently learning Android Development<br>- 💬 Ask me about Java, Kotlin, Android<br>- 📫 How to reach me <a href="mailto:kareemelnagar733@gmail.com">kareemelnagar733@gmail.com</a></p>
 
 ###
 
@@ -50,6 +50,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="40" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
