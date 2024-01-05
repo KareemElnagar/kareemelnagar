@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="![giphy](https://github.com/KareemElnagar/kareemelnagar/assets/57904095/265afbb1-65aa-4d84-8c04-38258a22a660)
+  <img height="150" src="https://github.com/KareemElnagar/kareemelnagar/assets/57904095/265afbb1-65aa-4d84-8c04-38258a22a660"
 "  />
 </div>
 
