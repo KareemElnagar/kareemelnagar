@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">A passionate Mobile Developer <br><br>- 🔭 A Computer Science graduate from Faculty of Science - Mansoura University<br>- 📚 I’m currently Mid Level Mobile Developer <br>- 💬 Ask me about Java, Kotlin, Android,flutter<br>- 📫 How to reach me <a href="mailto:kareemelnagar733@gmail.com">kareemelnagar733@gmail.com</a></p>
+<p align="left">A passionate Mobile Developer <br><br>- 🔭 A Computer Science graduate from Faculty of Science - Mansoura University<br>- 📚 I’m currently Mid Level Mobile Developer <br>- 💬 Ask me about Java, Kotlin, Android, Flutter<br>- 📫 How to reach me <a href="mailto:kareemelnagar733@gmail.com">kareemelnagar733@gmail.com</a></p>
 
 ###
 
